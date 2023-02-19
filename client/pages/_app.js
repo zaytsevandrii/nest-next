@@ -1,5 +1,4 @@
 import "../styles/globals.css"
-import Navigate from "../components/Navigate"
 
 function MyApp({ Component, pageProps }) {
     return (
